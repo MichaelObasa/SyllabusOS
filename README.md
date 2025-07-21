@@ -23,7 +23,7 @@ Syllabus gives you:
 
 ---
 
-## 🛠️ What you get (MVP)
+## 🛠️ What I'm Building Out Now (MVP)
 
 - 📚 **Modular curriculum builder** based on real CS degree syllabi (Loughborough, UCL, etc.)
 - 🧠 **Learning trees** to guide your path from basics to mastery
