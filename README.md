@@ -61,7 +61,7 @@ For commercial use, partnerships, or questions: **michaelobasa2@gmail.com**
 ## 🤝 Synergy & Credits
 
 This project was built with:
-- GPT (via OpenRouter)
+- GPT (via OpenRouter/Together AI)
 - Supabase for data
 - React + Tailwind + inspiration from Notion/Obsidian
 - University syllabi from Warwick, UCL, Loughborough, and more
