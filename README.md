@@ -30,7 +30,7 @@ Syllabus gives you:
 - 🎯 **Project prompts + assessments** in every module
 - 💬 **AI Tutor** (powered by GPT) for help, feedback, and nudges
 - 🧪 **Coding sandbox** to practice and build inside the platform
-- 📂 **Portfolio output** — push projects to GitHub, blogs, or resumes
+- 📂 **Portfolio output** - push projects to GitHub, blogs, or resumes
 
 ---
 
