@@ -41,6 +41,8 @@ This is the early MVP. We're:
 - Using public syllabi and AI to build paths
 - Focusing on clarity and real skill development
 
+More information coming soon. 
+
 ---
 
 ## 📌 License
