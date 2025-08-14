@@ -1,6 +1,6 @@
 # 📘 Syllabus OS (working title)    
 
-**Your own personal AI university. Built from the world’s best. Guided by you.** 
+**Your own personal AI university. Built from the world’s best. Guided by you.**  
 
 Syllabus OS is an open, modular, AI-powered learning platform that takes the best university Computer Science degrees (Harvard, UCL, Warwick, etc.) and turns them into a fully interactive, project-based journey - without the lectures, gatekeeping, or £30K debt.
 
