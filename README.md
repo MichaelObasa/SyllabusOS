@@ -1,4 +1,4 @@
-# 📘 Syllabus OS (working title) 
+# 📘 Syllabus OS (working title)  
 
 **Your own personal AI university. Built from the world’s best. Guided by you.** 
 
