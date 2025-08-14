@@ -8,7 +8,7 @@ It’s like building your own degree with tools that feel like Notion, think lik
 
 ---
 
-## 🎯 Why this exists
+## 🎯 Why this exists 
 
 1. Most people don’t need a degree. They need skills. They need proof. And they need structure.
 2. University gives you prestige but not always practice.
