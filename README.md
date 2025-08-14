@@ -4,7 +4,7 @@
 
 Syllabus OS is an open, modular, AI-powered learning platform that takes the best university Computer Science degrees (Harvard, UCL, Warwick, etc.) and turns them into a fully interactive, project-based journey - without the lectures, gatekeeping, or £30K debt.
 
-It’s like building your own degree with tools that feel like Notion, think like GPT, and flow like Duolingo.
+It’s like building your own degree with tools that feel like Notion, think like GPT, and flow like Duolingo. 
 
 ---
 
