@@ -47,7 +47,7 @@ More information coming soon.
 
 ## 📌 License
 
-This project is licensed under the **Business Source License 1.1 (BUSL-1.1)**.
+This project is licensed under the **Business Source License 1.1 (BUSL-1.1)**. 
 
 That means:
 - ✅ You can **view, clone, and contribute** to the project.
