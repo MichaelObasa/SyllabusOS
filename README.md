@@ -66,7 +66,7 @@ This project was built with:
 - GPT (via OpenRouter/Together AI)
 - Supabase for data
 - React + Tailwind + inspiration from Notion/Obsidian
-- University syllabi from Warwick, UCL, Loughborough, and more
+- University syllabi from Warwick, UCL, Loughborough, and more leading institutions
 
 Also inspired by: Replit, Scrimba, Notion, and every learner who decided not to wait for a teacher.
 
