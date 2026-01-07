@@ -6,7 +6,7 @@ Syllabus OS is an open, modular, AI-powered learning platform that takes the bes
 
 It’s like building your own degree with tools that feel like Notion, think like GPT, and flow like Duolingo. 
 
----
+--- 
 
 ## 🎯 Why this exists 
 
