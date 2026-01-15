@@ -1,4 +1,4 @@
-# 📘 Syllabus OS (working title) 
+# 📘 Syllabus OS 
 More coming in 2026
 
 **Your own personal AI university. Built from the world’s best. Guided by you.**  
