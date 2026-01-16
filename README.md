@@ -1,4 +1,4 @@
-# 📘 Syllabus OS - The Future of Modern Software Education
+# 📘 Syllabus OS - Modern Software Education in an AI-Driven World
 More coming in 2026
 
 **Your own personal AI university. Built from the world’s best. Guided by you.**  
