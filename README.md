@@ -1,79 +1,81 @@
-# 📘 Syllabus OS - Modern Software Education in an AI-Driven World
-More coming in 2026
+# 📘 Syllabus OS
 
-**Your own personal AI university. Built from the world’s best. Guided by you.**  
-
-Syllabus OS is an open, modular, AI-powered learning platform that takes the best university Computer Science degrees (Harvard, UCL, Warwick, etc.) and turns them into a fully interactive, project-based journey - without the lectures, gatekeeping, or £30K debt.
-
-It’s like building your own degree with tools that feel like Notion, think like GPT, and flow like Duolingo. 
-
---- 
-
-## 🎯 Why this exists 
-
-1. Most people don’t need a degree. They need skills. They need proof. And they need structure.
-2. University gives you prestige but not always practice.
-3. YouTube gives you content but no direction.
-4. Bootcamps give you urgency but not affordability.
-
-Syllabus gives you:
-- A clear, modular path from beginner to advanced.
-- Real academic material, transformed into real-world projects.
-- An AI assistant that actually helps you learn, not just give you answers.
-- A growing portfolio of proof, not just completed videos.
+**The Open-Source University Engine.**
+*Your personal AI university. Built from the world’s best curricula. Guided by you.*
 
 ---
 
-## 🛠️ What I'm Building Out Now (MVP v1)
+### 🎯 The Thesis
+**The "Degree" is outdated. The "Skill" is everything.**
 
-- 📚 **Modular curriculum builder** based on real CS degree syllabi (Loughborough, UCL, etc.)
-- 🧠 **Learning trees** to guide your path from basics to mastery
-- 🎯 **Project prompts + assessments** in every module
-- 💬 **AI Tutor** (powered by GPT) for help, feedback, and nudges
-- 🧪 **Coding sandbox** to practice and build inside the platform
-- 📂 **Portfolio output** - push projects to GitHub, blogs, or resumes
+We are in a weird spot.
+* **University** gives you structure and prestige, but often lacks practical, modern skills (and costs £30k).
+* **YouTube/Udemy** gives you infinite content, but zero direction. You drown in tutorials without a map.
 
----
+**Syllabus OS** is the bridge.
+It is an open, modular, AI-powered platform that parses the best Computer Science curricula in the world (Harvard, UCL, MIT) and reconstructs them into an interactive, project-based roadmap.
 
-## 🚧 Current Status
-
-This is the early MVP. We're:
-- Starting with Year 1 CS content
-- Using public syllabi and AI to build paths
-- Focusing on clarity and real skill development
-
-More information coming soon. 
+It’s like building your own degree with tools that **feel like Notion**, **think like DeepSeek**, and **flow like Duolingo**.
 
 ---
 
-## 📌 License
+### 🏗️ How it Works (The MVP)
 
-This project is licensed under the **Business Source License 1.1 (BUSL-1.1)**. 
+We aren't just generating random quizzes. We are building a **Graph-Based Learning Engine**.
 
-That means:
-- ✅ You can **view, clone, and contribute** to the project.
-- ❌ You **can’t use it in production or commercially** without a separate license.
-- ⏳ On **18 July 2028**, the license will automatically convert to **MIT**.
-
-[See LICENSE file for full details.]
-
-For commercial use, partnerships, or questions: **michaelobasa2@gmail.com**
+* **📚 The Curriculum Core:** We scrape and standardize syllabi from top universities to create a "Golden Path" of what you *actually* need to know (Data Structures, Algorithms, Distributed Systems).
+* **🧠 The Socratic Engine:** Powered by **DeepSeek v3.2** (for reasoning) and **Gemini 3** (for context), the AI doesn't just give you answers. It acts as a Tutor, asking *you* questions to ensure you understand the core concepts.
+* **🧪 The Sandbox:** A built-in coding environment where you prove your skills. You don't pass a module by watching a video; you pass by shipping a commit.
+* **📂 Verifiable Proof:** Every completed module pushes a project to your GitHub. By the end, you don't have a certificate; you have a portfolio.
 
 ---
 
-## 🤝 Synergy & Credits
+### 🛠️ Tech Stack & Architecture
 
-This project was built with:
-- GPT (via OpenRouter/Together AI)
-- Supabase for data
-- React + Tailwind + inspiration from Notion/Obsidian
-- University syllabi from Warwick, UCL, Loughborough, and more leading institutions
+Built for the AI-native web.
 
-Also inspired by: Replit, Scrimba, Notion, and every learner who decided not to wait for a teacher.
+| Component | Tech |
+| :--- | :--- |
+| **Frontend** | React + Tailwind (Notion-style minimalism) |
+| **Backend** | Python (FastAPI) |
+| **Data & Vectors** | Supabase (Postgres + pgvector) |
+| **Reasoning Model** | **DeepSeek v3.2** (Logic & Code Review) |
+| **Context Model** | **Gemini 3 Flash** (Reading heavy documentation/textbooks) |
+| **Orchestration** | Custom Agent Swarm (No heavy frameworks) |
 
 ---
 
-## 📫 Want to help?
+### 🚧 Current Status: Research Preview
 
-This is just the beginning. If you're a dev, teacher, student, or builder - jump in.
-Open issues, suggest features, or reach out directly.
+*Note: This is currently a passion project in active research & development.*
+
+**What exists today:**
+* [x] Year 1 CS Curriculum Graph (based on UCL/Warwick structures)
+* [x] Basic Project Prompts & Assessment Logic
+* [ ] Interactive Coding Sandbox (In Progress)
+
+**Coming later in 2026:**
+* "Learning Tree" Visualization
+* GitHub Portfolio Automation
+
+---
+
+### 🤝 Credits & Inspiration
+
+This project stands on the shoulders of giants:
+* **Curricula:** Structure inspired by public syllabi from Warwick, UCL, and Loughborough.
+* **Tools:** Inspired by the UX of **Notion**, the interactivity of **Scrimba**, and the flow of **Replit**.
+
+---
+
+### 📌 License
+
+This project is licensed under the **Business Source License 1.1 (BUSL-1.1)**.
+
+* ✅ **Free to learn from:** You can view, clone, and experiment with the code.
+* ❌ **Commercial restriction:** You cannot use this to build a competing commercial product.
+* ⏳ **Open Source Promise:** On **18 July 2029**, this license automatically converts to **MIT**.
+
+For partnerships or questions: **michaelobasa2@gmail.com**
+
+---
